@@ -60,12 +60,13 @@ Sales peak during specific time periods.
 🚀 How to Run the Project
 Clone the repository
 git clone https://github.com/your-username/customer-behavior-analysis.git
+
 Install required Python libraries
 pip install pandas numpy matplotlib seaborn
+
 Run Jupyter Notebook
 jupyter notebook
 
-Open the Power BI file (.pbix) in the powerbi folder to view the dashboard.
 
 📈 Business Impact
 
@@ -79,7 +80,7 @@ Business insight generation
 
 👨‍💻 Author
 
-Your Name
+Virajitha Dilshan
 BSc (Hons) Applied Science in Computing
 University of Jaffna
 
