@@ -1,4 +1,5 @@
 📊 Customer Behavior Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing customer behavior using data analytics techniques.
@@ -7,6 +8,7 @@ The objective is to extract meaningful insights from customer transaction data t
 The analysis was performed using Python, SQL, and Power BI.
 
 🎯 Project Objectives
+
 Analyze customer purchasing patterns
 Identify high-value and loyal customers
 Perform customer segmentation
@@ -20,17 +22,9 @@ SQL – Data extraction and querying
 Power BI – Interactive dashboard and visualization
 Jupyter Notebook – Analysis environment
 
-📂 Project Structure
-Customer-Behavior-Analysis/
-│
-├── data/              # Raw and processed datasets
-├── sql/               # SQL queries
-├── notebooks/         # Python analysis notebooks
-├── powerbi/           # Power BI dashboard file (.pbix)
-├── images/            # Dashboard screenshots
-└── README.md
 
 🔎 Project Workflow
+
 1️⃣ Data Collection
 Customer transaction dataset
 Sales records
